@@ -1,0 +1,11 @@
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\bin\Debug\SDM Ui Design.exe.config
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\bin\Debug\SDM Ui Design.exe
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\bin\Debug\SDM Ui Design.pdb
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM_Ui_Design.Form1.resources
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM_Ui_Design.Properties.Resources.resources
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM Ui Design.csproj.GenerateResource.cache
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM Ui Design.exe
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM Ui Design.pdb
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM_Ui_Design.secondUserCustomControl1.resources
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM_Ui_Design.thirdUserCustomControl1.resources
+C:\Users\Jaden A\Desktop\Projects\SDM System\SDM Ui Design\SDM Ui Design\obj\Debug\SDM_Ui_Design.firstUserCustomControl2.resources
