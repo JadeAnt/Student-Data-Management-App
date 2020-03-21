@@ -15,4 +15,9 @@ I designed this with clarity of data in mind, so that it would be easy to naviga
 
 
 ## Example
+
+### Dashboard
 ![Student Data Management](https://github.com/JadeAnt/Student-Data-Management-App/blob/master/SDM_Dashboard.JPG)
+
+### Classes
+![Student Data Management Classes](https://github.com/JadeAnt/Student-Data-Management-App/blob/master/SDM_Classes.JPG)
