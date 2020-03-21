@@ -14,7 +14,7 @@ I designed this with clarity of data in mind, so that it would be easy to naviga
 - The application should be realistic and follow the needs of an average college student managing their classes, scheduling, transcripts, grades, and tuition. 
 
 
-## Example
+## Example Pictures
 
 ### Dashboard
 ![Student Data Management](https://github.com/JadeAnt/Student-Data-Management-App/blob/master/SDM_Dashboard.JPG)
